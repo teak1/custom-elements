@@ -1,0 +1,6 @@
+{
+	"javascript.format.enable": false,
+	"beautify.ignore": [
+		"*.min.js"
+	]
+}
